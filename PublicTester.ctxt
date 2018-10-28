@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PublicTester()
+comment1.params=
+comment1.target=void\ play()
+comment2.params=line
+comment2.target=void\ makeTurn(java.lang.String)
+comment3.params=
+comment3.target=void\ endGame()
+comment4.params=winner
+comment4.target=void\ endGame(int)
+numComments=5

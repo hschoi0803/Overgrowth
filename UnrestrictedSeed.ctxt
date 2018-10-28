@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type\ gr\ r\ c
+comment0.target=UnrestrictedSeed(int,\ Grid,\ int,\ int)
+comment1.params=
+comment1.target=boolean\ spreadCondition()
+comment2.params=
+comment2.target=void\ spread()
+numComments=3

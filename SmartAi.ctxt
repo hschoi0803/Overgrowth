@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b\ p
+comment0.target=SmartAi(Grid,\ int)
+comment1.params=
+comment1.target=java.lang.String\ makeMove()
+comment2.params=s
+comment2.target=double\ testMove(Seed)
+numComments=3
